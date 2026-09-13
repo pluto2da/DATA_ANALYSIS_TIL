@@ -81,8 +81,6 @@ API가 공식적인 데이터 창구 역할을 한다면 웹 스크래핑은 화
 
 <img width="2678" height="1162" alt="image" src="https://github.com/user-attachments/assets/5664c028-bd9f-49ce-84e3-53ffc08d94a2" />
 
-<img width="1214" height="650" alt="image" src="https://github.com/user-attachments/assets/afc96684-8832-4e29-86fb-6b53ced073e3" />
-
 <img width="1480" height="1118" alt="image" src="https://github.com/user-attachments/assets/ba6e8acc-dbce-472a-8fbf-9e72d74b5afe" />
 <img width="900" height="514" alt="image" src="https://github.com/user-attachments/assets/65706a56-525e-46a3-8aec-5145d0515232" />
 
@@ -108,7 +106,7 @@ API가 공식적인 데이터 창구 역할을 한다면 웹 스크래핑은 화
 ```
 답: 2번 Scrapy
 
-설명: 교재의 내용에서 볼 수 있듯이, 최근 Scrapy와 같은 패키지의 인기가 높은데, 이는 데이터를 요청하여 가져오는 requests 패키지와 가져온 HTML에서 데이터를 추출하는 BeautifulSoup의 기능을 하나로 합쳐 놓은 것과 같은 역할을 하기 때문이다. 단순한 요소 추출을 넘어 대규모 웹 사이트를 체계적이고 빠르게 긁어올 때 필수적인 도구라고 볼 수 있다.
+설명: 교재의 내용에서 볼 수 있듯이 최근 Scrapy와 같은 패키지의 인기가 높은데, 이는 데이터를 요청하여 가져오는 requests 패키지와 가져온 HTML에서 데이터를 추출하는 BeautifulSoup의 기능을 하나로 합쳐 놓은 것과 같은 역할을 하기 때문이다. 단순한 요소 추출을 넘어 대규모 웹 사이트를 체계적이고 빠르게 긁어올 때 필수적인 도구라고 볼 수 있다.
 ```
 
 
