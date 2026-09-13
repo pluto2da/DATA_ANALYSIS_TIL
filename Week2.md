@@ -72,6 +72,11 @@ API가 공식적인 데이터 창구 역할을 한다면 웹 스크래핑은 화
 
 <!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 4~6장의 스크린샷을 캡처하여 아래에 첨부해주세요.-->
 
+<img width="2658" height="1198" alt="image" src="https://github.com/user-attachments/assets/bde326c4-05a9-4275-bf4d-490eb09245f1" />
+<img width="2666" height="1198" alt="image" src="https://github.com/user-attachments/assets/9b467476-c447-4f61-ae5d-25c4670f8d27" />
+
+
+
 
 
 
