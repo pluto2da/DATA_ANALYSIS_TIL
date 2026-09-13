@@ -75,7 +75,8 @@ API가 공식적인 데이터 창구 역할을 한다면 웹 스크래핑은 화
 <img width="2658" height="1198" alt="image" src="https://github.com/user-attachments/assets/bde326c4-05a9-4275-bf4d-490eb09245f1" />
 <img width="2666" height="1198" alt="image" src="https://github.com/user-attachments/assets/9b467476-c447-4f61-ae5d-25c4670f8d27" />
 
-
+**웹 스크래핑**
+<img width="2678" height="1162" alt="image" src="https://github.com/user-attachments/assets/5664c028-bd9f-49ce-84e3-53ffc08d94a2" />
 
 
 
