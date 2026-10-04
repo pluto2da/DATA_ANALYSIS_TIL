@@ -76,7 +76,15 @@ https://www.youtube.com/watch?v=deYY4xHsI0o&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 # 2️⃣ 수행 인증
 
 <!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 4~6장의 스크린샷을 캡처하여 아래에 첨부해주세요.-->
+<img width="1094" height="808" alt="image" src="https://github.com/user-attachments/assets/3ef7ab52-8603-4849-8211-ea6cb6fbc1f4" />
 
+캡처의 편의를 위해 그래프 크기 코드 내 조정함.
+<img width="1014" height="1028" alt="image" src="https://github.com/user-attachments/assets/38ebb46a-3dbd-49a5-83f1-42d88bca5b6e" />
+<img width="1052" height="888" alt="image" src="https://github.com/user-attachments/assets/cbfe98ee-28ad-4d53-bff8-af0b4fc525d3" />
+<img width="1234" height="966" alt="image" src="https://github.com/user-attachments/assets/d7b41dd9-0dd5-434d-911e-3a1328f876a1" />
+
+과제 캡처
+<img width="1202" height="904" alt="image" src="https://github.com/user-attachments/assets/9a7ac2f1-8ba4-4f14-89cb-7451ad9643f0" />
 
 
 <br>
@@ -98,7 +106,21 @@ https://www.youtube.com/watch?v=deYY4xHsI0o&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 ```
 
 ```
-여기에 코드를 작성해주세요!
+import matplotlib.pyplot as plt
+
+# 주어진 데이터
+x = [1, 2, 3, 4, 5]
+y = [2, 4, 6, 8, 10]
+
+# 마커 설정해 선 그래프 그리기
+plt.plot(x, y, marker='o')
+
+# 제목과 각 축 이름 설정
+plt.title("Linear Trend")
+plt.xlabel("X values")
+plt.ylabel("Y values")
+
+plt.show()
 ```
 
 
