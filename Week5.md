@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=deYY4xHsI0o&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
    - 서브플롯 개별 제어: `set_title()`, `set_xlabel()`, `set_ylabel()`, `set_yscale()` 등의 메서드를 사용하여 제목, 축 이름, 스케일 변환 같은 각각의 서브플롯마다 개별적인 옵션을 적용한다.
       
 ## 02. 선 그래프와 막대 그래프 그리기
-맷플롯립(Matplotlib)의 여러 함수와 매개변수를 조합하면 그래프의 모양, 색상, 텍스트 표시 등을 데이터 성격에 맞게 세밀하게 조정할 수 있다.
+맷플롯립의 여러 함수와 매개변수를 조합하면 그래프의 모양, 색상, 텍스트 표시 등을 데이터 성격에 맞게 세밀하게 조정할 수 있다.
 
 1) 데이터 그룹화 및 조건부 추출
    - 사용자 정의 함수와 `apply()`: 결측치를 처리하거나 첫 글자 추출처럼 특정 문자열 규칙을 적용해야 할 때 처리 규칙을 담은 파이썬 함수를 정의한 후에 데이터프레임의 apply() 메서드에 전달하여 일괄 적용이 가능하다.
@@ -78,12 +78,13 @@ https://www.youtube.com/watch?v=deYY4xHsI0o&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 <!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 4~6장의 스크린샷을 캡처하여 아래에 첨부해주세요.-->
 <img width="1094" height="808" alt="image" src="https://github.com/user-attachments/assets/3ef7ab52-8603-4849-8211-ea6cb6fbc1f4" />
 
-캡처의 편의를 위해 그래프 크기 코드 내 조정함.
+**캡처의 편의를 위해 그래프 크기 코드 내 조정함.**
 <img width="1014" height="1028" alt="image" src="https://github.com/user-attachments/assets/38ebb46a-3dbd-49a5-83f1-42d88bca5b6e" />
 <img width="1052" height="888" alt="image" src="https://github.com/user-attachments/assets/cbfe98ee-28ad-4d53-bff8-af0b4fc525d3" />
 <img width="1234" height="966" alt="image" src="https://github.com/user-attachments/assets/d7b41dd9-0dd5-434d-911e-3a1328f876a1" />
 
-과제 캡처
+
+**과제 캡처**
 <img width="1202" height="904" alt="image" src="https://github.com/user-attachments/assets/9a7ac2f1-8ba4-4f14-89cb-7451ad9643f0" />
 
 
