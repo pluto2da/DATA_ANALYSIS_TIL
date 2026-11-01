@@ -88,7 +88,17 @@ https://www.youtube.com/watch?v=NTQ5NXelOfw&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 # 2️⃣ 수행 인증
 
-<!-- 교재에서 안내된 과정을 직접 실행해본 뒤, 진행 결과가 보이도록 4~6장의 스크린샷을 캡처하여 아래에 첨부해주세요.-->
+<img width="1494" height="1088" alt="image" src="https://github.com/user-attachments/assets/90ea23cf-628c-4439-9033-b720a2147acd" />
+
+<img width="1344" height="940" alt="image" src="https://github.com/user-attachments/assets/64541301-1e44-4133-9f59-a5914636a5df" />
+
+<img width="1556" height="1064" alt="image" src="https://github.com/user-attachments/assets/f2c8f8dd-6c92-4472-aced-d5afac41525f" />
+
+<img width="1940" height="1062" alt="image" src="https://github.com/user-attachments/assets/19c7c855-f165-49e2-b8d3-4440d9269ef5" />
+
+<img width="1192" height="590" alt="image" src="https://github.com/user-attachments/assets/fe6e926e-4e0b-4bf6-ac48-da779365291f" />
+
+<img width="1504" height="1088" alt="image" src="https://github.com/user-attachments/assets/e51bb1bd-223d-43bd-8dba-773319ca7427" />
 
 
 
@@ -103,8 +113,7 @@ https://www.youtube.com/watch?v=NTQ5NXelOfw&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 4주차에서 사용했던 캐글 데이터셋을 활용하여, 다양한 요소를 포함한 복잡한 그래프를 직접 작성해주세요.**
 
 ```
-여기에 코랩 링크를 첨부해주세요!
-(제출 전, 코랩의 공유 설정을 ‘링크가 있는 모든 사용자가 보기 가능’으로 변경했는지 반드시 확인해주세요.)
+https://colab.research.google.com/drive/19daogJgrLfKM5H6M_l3zaGFMS1NRCyNA?usp=sharing
 ```
 
 
